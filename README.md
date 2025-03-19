@@ -16,9 +16,10 @@ Pensando nisto, criei um leitor RFID de longa distancia com frequencia ajustavel
 
 ## O dispositivo
 
-<img src="https://github.com/user-attachments/assets/9030fe36-da22-4f33-82cc-12913c3b357d" style="width:50%;">
+Iniciei com o protótipo, que foi evoluindo ao longo do tempo, tanto em nível de funcionalidades como melhorias nas caixas plasticas e inclusão de bateria interna, sem a necessidade de cabos:
 
+<img src="https://github.com/user-attachments/assets/2c2344e8-748a-4913-b262-9bd2a68a4a77" style="width:40%;">
 
-![Imagem do WhatsApp de 2025-03-19 à(s) 12 07 44_83a4bcb2](https://github.com/user-attachments/assets/9030fe36-da22-4f33-82cc-12913c3b357d)
+Prototipo melhorado:
 
-
+<img src="https://github.com/user-attachments/assets/9030fe36-da22-4f33-82cc-12913c3b357d" style="width:40%;">
