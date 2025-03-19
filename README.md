@@ -16,6 +16,9 @@ Pensando nisto, criei um leitor RFID de longa distancia com frequencia ajustavel
 
 ## O dispositivo
 
+<img src="https://github.com/user-attachments/assets/9030fe36-da22-4f33-82cc-12913c3b357d" style="width:50%;">
+
+
 ![Imagem do WhatsApp de 2025-03-19 à(s) 12 07 44_83a4bcb2](https://github.com/user-attachments/assets/9030fe36-da22-4f33-82cc-12913c3b357d)
 
 
