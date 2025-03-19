@@ -7,3 +7,11 @@ A tecnologia RFID (Identificação por Radiofrequência) tem sido amplamente ado
 ## Leitor RFID para Controle e Gestão de Bens Patrimoniais
 
 Os leitores RFID são uma solução eficiente para o controle e gestão de bens patrimoniais, permitindo a identificação rápida e precisa de ativos. Com essa tecnologia, etiquetas RFID são fixadas nos itens, possibilitando sua rastreabilidade em tempo real sem a necessidade de contato visual direto. Isso agiliza inventários, reduz extravios e melhora a transparência na administração de bens. Além disso, o uso de leitores RFID minimiza erros manuais, aumenta a segurança e facilita auditorias, tornando a gestão patrimonial mais eficiente e automatizada.
+
+## Desenvolvimento do Hardware
+
+Desenvolvi um leitor RFID de longo alcança baseado em ESP32 (microcontrolador da ESPRESSIF SYSTEMS) integrado diretamento com APEX ORACLE, de passagem, este leitor RFID é o primeiro hardware embarcado desenvolvido especialmente para se comunicar diretamente com APEX da ORACLE (pioneiro).
+Devido a demanda do setor público de se manter atualizado e gerir o sistema patrimônial, surgiu a idéia de se criar um LEITOR RFDI de baixo custo e alta confiabilidade e que fosse integrado diretamente com APEX da ORACLE que facilica o desenvolvimento por se tratar de um ambiente low-code que facilita o desenvolvimento, atualizações e manutenção.
+Pensando nisto, criei um leitor RFID de longa distancia com frequencia ajustavel de 800 - 900mHz podendo ser ultilizado em outros paises como também no Brasil UHF (Ultra High Frequency – Ultra Alta Frequência): 902 MHz a 907,5 MHz e 915 MHz a 928 MHz (Faixa regulamentada pela Resolução Anatel nº 506/2008).
+
+## O dispositivo
