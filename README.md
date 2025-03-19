@@ -15,3 +15,7 @@ Devido a demanda do setor público de se manter atualizado e gerir o sistema pat
 Pensando nisto, criei um leitor RFID de longa distancia com frequencia ajustavel de 800 - 900mHz podendo ser ultilizado em outros paises como também no Brasil UHF (Ultra High Frequency – Ultra Alta Frequência): 902 MHz a 907,5 MHz e 915 MHz a 928 MHz (Faixa regulamentada pela Resolução Anatel nº 506/2008).
 
 ## O dispositivo
+
+![Imagem do WhatsApp de 2025-03-19 à(s) 12 07 44_83a4bcb2](https://github.com/user-attachments/assets/9030fe36-da22-4f33-82cc-12913c3b357d)
+
+
