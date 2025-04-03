@@ -11,15 +11,16 @@ Os leitores RFID são uma solução eficiente para o controle e gestão de bens 
 ## Desenvolvimento do Hardware
 
 Desenvolvi um leitor RFID de longo alcança baseado em ESP32 (microcontrolador da ESPRESSIF SYSTEMS) integrado diretamento com APEX ORACLE, de passagem, este leitor RFID é o primeiro hardware embarcado desenvolvido especialmente para se comunicar diretamente com APEX da ORACLE (pioneiro).
-Devido a demanda do setor público de se manter atualizado e gerir o sistema patrimônial, surgiu a idéia de se criar um LEITOR RFDI de baixo custo e alta confiabilidade e que fosse integrado diretamente com APEX da ORACLE que facilica o desenvolvimento por se tratar de um ambiente low-code que facilita o desenvolvimento, atualizações e manutenção.
+Devido a demanda do setor público de se manter atualizado e gerir o sistema patrimônial, surgiu a idéia de se criar um LEITOR RFDI de baixo custo e alta confiabilidade e que fosse integrado diretamente com APEX da ORACLE que facilica o desenvolvimento, manutençao e atualizações por se tratar de um ambiente low-code.
 Pensando nisto, criei um leitor RFID de longa distancia com frequencia ajustavel de 800 - 900mHz podendo ser ultilizado em outros paises como também no Brasil UHF (Ultra High Frequency – Ultra Alta Frequência): 902 MHz a 907,5 MHz e 915 MHz a 928 MHz (Faixa regulamentada pela Resolução Anatel nº 506/2008).
 
 ## O dispositivo
 
-Iniciei com o protótipo, que foi evoluindo ao longo do tempo, tanto em nível de funcionalidades como melhorias nas caixas plasticas e inclusão de bateria interna, sem a necessidade de cabos:
+Iniciei com o protótipo, que foi evoluindo ao longo do tempo, tanto em nível de funcionalidades como melhorias nas caixas plasticas e inclusão de bateria interna, sem a necessidade de cabos, abaixo imagens do protótipo (à esquerda) e do dispositivo final (à direita):
 
-<img src="https://github.com/user-attachments/assets/2c2344e8-748a-4913-b262-9bd2a68a4a77" style="width:40%;">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2c2344e8-748a-4913-b262-9bd2a68a4a77" width="35%" />
+  <img src="https://github.com/user-attachments/assets/9030fe36-da22-4f33-82cc-12913c3b357d" width="27%" />
+</p>
 
-Prototipo melhorado:
 
-<img src="https://github.com/user-attachments/assets/9030fe36-da22-4f33-82cc-12913c3b357d" style="width:40%;">
