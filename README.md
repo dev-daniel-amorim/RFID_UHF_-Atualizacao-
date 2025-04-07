@@ -24,6 +24,23 @@ Iniciei com o protótipo, que foi evoluindo ao longo do tempo, tanto em nível d
   <img src="https://github.com/user-attachments/assets/9030fe36-da22-4f33-82cc-12913c3b357d" width="25%" />
 </p>
 
+## Desenvolvimento do Schema elétrico e circuito impresso
+
+O schema eletrico foi desenhado no Kicad versão 7.0.6 release build, onde foi desenhado toda conexão necessária para integração do ESP32-DEVKIT-32UE com a placa de leitura RFID, antena UHF, buzzer de status, displays, botões e bateria:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9d225504-22a8-4410-9829-e06c738475c7" width="50%" />
+</p>
+<br>
+
+Com o Schema em mãos, desenhei também no kicad o circuito impresso para montagem da parte eletrônica:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bac43382-3146-4643-8a90-f2bc3aa7980b" width="33%" />
+</p>
+<br>
+
+
 
 
 
